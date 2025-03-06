@@ -1,1 +1,1 @@
-Some text file.
+Hello, Hexlet! How are you?
