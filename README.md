@@ -1,2 +1,2 @@
-No code No pain
-experiment with amend.
+No code no pain
+experiment with amend
